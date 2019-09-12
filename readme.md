@@ -8,6 +8,7 @@
 - [Official Accounts](#official-accounts)
 - [Materials](#materials)
 - [Tools](#tools)
+- [Information](#information)
 - [Twittersphere](#twittersphere)
 
 
@@ -64,6 +65,11 @@ Accounts and services run by the Andrew Yang campaign.
 - visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
 - [UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
+
+## Information
+
+- [official website – additional resources](https://www.yang2020.com/additional-resources/)
+- [freedom-dividend.com](https://freedom-dividend.com/)
 
 ## Twittersphere
 
