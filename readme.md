@@ -61,6 +61,7 @@ Accounts and services run by the Andrew Yang campaign.
 
 ## Tools
 
+- visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
 - [UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
 
