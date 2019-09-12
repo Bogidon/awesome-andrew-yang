@@ -56,6 +56,7 @@ Accounts and services run by the Andrew Yang campaign.
 - [yangprints.com](https://yangprints.com/poster/forward)
 - [printables](https://drive.google.com/drive/folders/1pBO2IwmSC6zjQHO92Z07Af-kiCR9pzOQ)
 - [Resources Drive 1](https://drive.google.com/drive/folders/1bBXFz6LEscDbDafELmcsw3pSa-hYjQw7)
+- [Resources Drive 2](https://drive.google.com/drive/mobile/folders/1vUASGVhWEXTdzZpyaMO5lNrr_b-Q6OdP) (from [here](https://www.reddit.com/r/YangForPresidentHQ/comments/c5qywu/make_every_interaction_count/))
 
 #### Other
 
