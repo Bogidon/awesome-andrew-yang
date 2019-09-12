@@ -52,6 +52,7 @@ Accounts and services run by the Andrew Yang campaign.
 #### Designs
 
 - [yangprints.com](https://yangprints.com/poster/forward)
+- [printables](https://drive.google.com/drive/folders/1pBO2IwmSC6zjQHO92Z07Af-kiCR9pzOQ)
 - [Resources Drive 1](https://drive.google.com/drive/folders/1bBXFz6LEscDbDafELmcsw3pSa-hYjQw7)
 
 #### Other
