@@ -68,7 +68,7 @@ Accounts and services run by the Andrew Yang campaign.
 ## Twittersphere
 
 - [@scottsantens](https://twitter.com/scottsantens)
-
+- [@viz_yang](https://twitter.com/viz_yang)
 
 ## Contribute
 
