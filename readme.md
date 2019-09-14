@@ -5,14 +5,15 @@
 
 ## Contents
 
-- [Official Accounts](#official-accounts)
-- [Materials](#materials)
-- [Tools](#tools)
-- [Information](#information)
-- [Twittersphere](#twittersphere)
+- [Official Accounts](#-official-accounts)
+- [Activism Platforms](#-activism-platforms)
+- [Materials](#-materials)
+- [Tools](#-tools)
+- [Information](#-information)
+- [Twittersphere](#-twittersphere)
 
 
-## Offical Accounts
+## 👤 Official Accounts
 
 Accounts and services run by the Andrew Yang campaign.
 
@@ -25,13 +26,19 @@ Accounts and services run by the Andrew Yang campaign.
 - [YouTube](https://www.youtube.com/channel/UCriIuQZpMi6gEt_2P7xKCww?disable_polymer=true)
 
 
-#### For activists
+## 📣 Activism Platforms
 
-- [Slack team](https://yang-2020-slack.slack.com/) (online chat service)
+#### Official
+
+- [Slack](https://yang-2020-slack.slack.com/) (online text chat service)
 - [Andrew Yang Basecamp (FB group)](https://facebook.com/groups/OneForHumanity)
 
+#### Unofficial (yang gang)
 
-## Materials
+- [Discord](https://discord.gg/AQBfxgU) (online text/voice chat service)
+
+
+## 📎 Materials
 
 #### Official
 
@@ -63,18 +70,18 @@ Accounts and services run by the Andrew Yang campaign.
 - [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
 - [Andrew Yang Unofficial Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
 
-## Tools
+## 🔧 Tools
 
 - visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
 - [UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
 
-## Information
+## 👩‍🎓 Information
 
 - [official website – additional resources](https://www.yang2020.com/additional-resources/)
 - [freedom-dividend.com](https://freedom-dividend.com/)
 
-## Twittersphere
+## 🌎 Twittersphere
 
 - [@scottsantens](https://twitter.com/scottsantens)
 - [@viz_yang](https://twitter.com/viz_yang)
