@@ -39,12 +39,6 @@ Accounts and services run by the Andrew Yang campaign.
 - [Map of loal Yang Gangs](https://www.google.com/maps/d/u/0/viewer?mid=1LwNIH1F9z9NFwKjpJ6snLd_M4e9hoi76&ll=39.547239495043165%2C-97.46409671650298&z=4)
 - [Media kit](https://drive.google.com/drive/folders/1W3Gzd6rzV0BnoBXgf3mA59dJORc1aE2n)
 
-#### Memes
-
-- [yanggangmemes.com](https://yanggangmemes.com/)
-- [YangGangMemes (FB group)](https://www.facebook.com/groups/YangGangMemes/)
-- [$YANG cryptocurrency](https://www.yangbucks.com/)
-
 #### Shoppable
 
 - [yangfor.us](http://yangfor.us/)
@@ -58,9 +52,16 @@ Accounts and services run by the Andrew Yang campaign.
 - [Resources Drive 1](https://drive.google.com/drive/folders/1bBXFz6LEscDbDafELmcsw3pSa-hYjQw7)
 - [Resources Drive 2](https://drive.google.com/drive/mobile/folders/1vUASGVhWEXTdzZpyaMO5lNrr_b-Q6OdP) (from [here](https://www.reddit.com/r/YangForPresidentHQ/comments/c5qywu/make_every_interaction_count/))
 
+#### Memes
+
+- [yanggangmemes.com](https://yanggangmemes.com/)
+- [YangGangMemes (FB group)](https://www.facebook.com/groups/YangGangMemes/)
+- [$YANG cryptocurrency](https://www.yangbucks.com/)
+
 #### Other
 
 - [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
+- [Andrew Yang Unofficial Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
 
 ## Tools
 
