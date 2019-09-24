@@ -69,12 +69,14 @@ Accounts and services run by the Andrew Yang campaign.
 #### Other
 
 - [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
-- [Andrew Yang Unofficial Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
+- [Andrew Yang Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
+- [Yang Gang Quick Start Guide](https://docs.google.com/document/d/1egsTcEj0gPJCGoz27lBpzZ8wpRthNXoeebY3tZ88ly8/edit)
 
 ## 🔧 Tools
 
 - visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
-- [UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
+- [Community UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
+- [Personal UBI calculator](https://ubicalculator.com/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
 
 ## 👩‍🎓 Information
