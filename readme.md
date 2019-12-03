@@ -91,9 +91,11 @@ Accounts and services run by the Andrew Yang campaign.
 
 ## 🌎 Twittersphere
 
+- [@Zach_Graumann](https://twitter.com/Zach_Graumann)
 - [@scottsantens](https://twitter.com/scottsantens)
 - [@viz_yang](https://twitter.com/viz_yang)
 - [@yangganghub](https://twitter.com/yangganghub)
+- [@PagetKagy](https://twitter.com/PagetKagy)
 
 ## Contribute
 
