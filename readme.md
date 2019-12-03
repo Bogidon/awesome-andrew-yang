@@ -55,6 +55,7 @@ Accounts and services run by the Andrew Yang campaign.
 
 #### Designs
 
+- [yangcurious.com](https://yangcurious.com/)
 - [yangprints.com](https://yangprints.com/poster/forward)
 - [printables](https://drive.google.com/drive/folders/1pBO2IwmSC6zjQHO92Z07Af-kiCR9pzOQ)
 - [Resources Drive 1](https://drive.google.com/drive/folders/1bBXFz6LEscDbDafELmcsw3pSa-hYjQw7)
@@ -71,6 +72,7 @@ Accounts and services run by the Andrew Yang campaign.
 - [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
 - [Andrew Yang Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
 - [Yang Gang Quick Start Guide](https://docs.google.com/document/d/1egsTcEj0gPJCGoz27lBpzZ8wpRthNXoeebY3tZ88ly8/edit)
+- [Yang Daily](https://www.yangdaily10.com/)
 
 ## 🔧 Tools
 
