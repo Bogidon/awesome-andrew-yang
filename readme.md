@@ -79,6 +79,10 @@ Accounts and services run by the Andrew Yang campaign.
 - [Personal UBI calculator](https://ubicalculator.com/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
 
+#### iOS
+- [Yang 1k+ The Keyboard App](https://apps.apple.com/us/app/yang-1k-the-keyboard-app/id1456473221) (Yang memes keyboard)
+- [Yang Gang Stickers](https://apps.apple.com/us/app/yang-gang-stickers-andrew-y/id1488198994)
+
 ## 👩‍🎓 Information
 
 - [official website – additional resources](https://www.yang2020.com/additional-resources/)
