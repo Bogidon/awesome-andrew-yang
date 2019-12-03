@@ -36,6 +36,7 @@ Accounts and services run by the Andrew Yang campaign.
 #### Unofficial (yang gang)
 
 - [Discord](https://discord.gg/AQBfxgU) (online text/voice chat service)
+- [Republicans for Andrew Yang](https://www.facebook.com/groups/2929210990439844/) (FB group)
 
 
 ## 📎 Materials
