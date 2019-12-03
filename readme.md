@@ -83,7 +83,6 @@ Accounts and services run by the Andrew Yang campaign.
 
 #### Other
 
-- [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
 - [Andrew Yang Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
 - [Yang Gang Quick Start Guide](https://docs.google.com/document/d/1egsTcEj0gPJCGoz27lBpzZ8wpRthNXoeebY3tZ88ly8/edit)
 
