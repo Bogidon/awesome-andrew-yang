@@ -38,6 +38,18 @@ Accounts and services run by the Andrew Yang campaign.
 - [Discord](https://discord.gg/AQBfxgU) (online text/voice chat service)
 - [Republicans for Andrew Yang](https://www.facebook.com/groups/2929210990439844/) (FB group)
 
+## 👩‍🎓 Information
+- [official website – additional resources](https://www.yang2020.com/additional-resources/)
+- [freedom-dividend.com](https://freedom-dividend.com/)
+- visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
+- [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
+- [UBI impact posters by county](https://givedirect.io/yang/mememe/)
+- [Personal UBI calculator](https://ubicalculator.com/)
+
+#### Video
+- [yanglinks.com](https://yanglinks.com/) (links to YouTube videos of Yang replying to FAQs)
+- [yanganswers.com](https://yanganswers.com/) similar to yanglinks.com
+- [andrew-yang-interviews.org](http://andrew-yang-interviews.org/)
 
 ## 📎 Materials
 
@@ -74,19 +86,6 @@ Accounts and services run by the Andrew Yang campaign.
 - [andrewyang.vote](https://andrewyang.vote/) (art, canvassing tools, information)
 - [Andrew Yang Anime opening](https://www.youtube.com/watch?v=K1jUJ-2MsdA)
 - [Yang Gang Quick Start Guide](https://docs.google.com/document/d/1egsTcEj0gPJCGoz27lBpzZ8wpRthNXoeebY3tZ88ly8/edit)
-
-## 👩‍🎓 Information
-- [official website – additional resources](https://www.yang2020.com/additional-resources/)
-- [freedom-dividend.com](https://freedom-dividend.com/)
-- visualization of Yang's policies by [principle](https://public.flourish.studio/visualisation/663680/) and by [scope](https://public.flourish.studio/visualisation/663523/)
-- [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
-- [UBI impact posters by county](https://givedirect.io/yang/mememe/)
-- [Personal UBI calculator](https://ubicalculator.com/)
-
-#### Video
-- [yanglinks.com](https://yanglinks.com/) (links to YouTube videos of Yang replying to FAQs)
-- [yanganswers.com](https://yanganswers.com/) similar to yanglinks.com
-- [andrew-yang-interviews.org](http://andrew-yang-interviews.org/)
 
 ## 🔧 Tools
 - [Yang Daily 10](https://www.yangdaily10.com/) (new way to help each day in 10 minutes or less)
