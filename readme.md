@@ -7,9 +7,9 @@
 
 - [Official Accounts](#-official-accounts)
 - [Activism Platforms](#-activism-platforms)
+- [Information](#-information)
 - [Materials](#-materials)
 - [Tools](#-tools)
-- [Information](#-information)
 - [Twittersphere](#-twittersphere)
 
 
