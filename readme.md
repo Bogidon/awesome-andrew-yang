@@ -78,6 +78,7 @@ Accounts and services run by the Andrew Yang campaign.
 - [Community UBI impact measurement and poster generator](https://givedirect.io/yang/mememe/)
 - [Personal UBI calculator](https://ubicalculator.com/)
 - [yangsearch.com](https://yangsearch.com/) (policy and media search portal)
+- [yanglinks.com](https://yanglinks.com/) (links to YouTube videos of Yang replying to FAQs)
 
 #### iOS
 - [Yang 1k+ The Keyboard App](https://apps.apple.com/us/app/yang-1k-the-keyboard-app/id1456473221) (Yang memes keyboard)
