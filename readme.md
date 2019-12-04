@@ -56,7 +56,7 @@ Accounts and services run by the Andrew Yang campaign.
 #### Official
 
 - [Guide to becoming a caller](https://docs.google.com/document/d/17xNaWzkv6ZxpU2dQECmDFc8KcTuNj_ZOAXf9yy8jrJM/edit)
-- [Map of local Yang Gangs](https://www.google.com/maps/d/u/0/viewer?mid=1LwNIH1F9z9NFwKjpJ6snLd_M4e9hoi76&ll=39.547239495043165%2C-97.46409671650298&z=4)
+- [Map of local Yang Gangs](https://www.yangnearme.com/), [(alternative)](https://www.google.com/maps/d/u/0/viewer?mid=1LwNIH1F9z9NFwKjpJ6snLd_M4e9hoi76&ll=39.547239495043165%2C-97.46409671650298&z=4)
 - [Media kit](https://drive.google.com/drive/folders/1W3Gzd6rzV0BnoBXgf3mA59dJORc1aE2n)
 - music playlist made by Yang: [Spotify](https://yang2020.com/spotify), [Apple Music](https://music.apple.com/us/playlist/yangs-favorite-jams/pl.u-ZmblD1jiZr6bej), or [YouTube](https://www.youtube.com/watch?v=_Yhyp-_hX2s&list=PL8zamagAEmSMt9JnKb5Mjppb0AJGQW9bJ)
 
